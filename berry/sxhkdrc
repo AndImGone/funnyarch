@@ -31,7 +31,7 @@ super + a
 
 super + shift + s 
   flameshot gui
-  
+
 # make sxhkd reload its configuration files:
 super + Escape
 	pkill -USR1 -x sxhkd
@@ -75,3 +75,4 @@ super + c
 
 ~button1
     berryc pointer_focus
+    
