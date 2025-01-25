@@ -10,7 +10,7 @@ Import everything into ~/.config
 ## Berry
 
 For Berry keybinds, check the ~/.config/berry/sxhkdrc file
-
+![berryss](https://i.imgur.com/OsFUsUo.png)
 ## Integrating Other WMs
 
 You're on your own with bspwm, but for other WMs, you can use ~/.config/sxhkd/sxhkdrc for the same keybinds as Berry.
