@@ -13,6 +13,7 @@ Import everything into ~/.config
 
  **EXCEPT** for rofi. For rofi, you're gonna wanna take everything in rofi except config.rasi, and put it in ~/.local/share/rofi
 Rename bashrc to .bashrc and put it into your home directory
+You also might have to change some keybinds that use my full home directory to match yours (or just change your username to the same as mine if you're based)
 
 ## Berry
 
