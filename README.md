@@ -1,3 +1,9 @@
+# Dependencies
+
+```console
+sudo pacman -S flameshot tint2 picom rofi feh sxhkd berry kitty rofi-emoji
+```
+also install https://github.com/jluttine/rofi-power-menu
 # Installation
 ```console
 git clone https://github.com/AndImGone/funnyarch.git
@@ -14,3 +20,4 @@ For Berry keybinds, check the ~/.config/berry/sxhkdrc file
 ## Integrating Other WMs
 
 You're on your own with bspwm, but for other WMs, you can use ~/.config/sxhkd/sxhkdrc for the same keybinds as Berry.
+
