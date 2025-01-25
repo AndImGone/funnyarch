@@ -19,6 +19,8 @@ You also might have to change some keybinds that use my full home directory to m
 
 ## Berry
 
+This is the primary WM that the git repository will run. All files will work best under it.
+
 For Berry keybinds, check the ~/.config/berry/sxhkdrc file
 ![berryss](https://i.imgur.com/OsFUsUo.png)
 ## Integrating Other WMs
