@@ -9,7 +9,6 @@ alias ls='ls --color=auto'
 alias v='nvim'
 alias ..='cd ..'
 alias grep='grep --color=auto'
-alias mainrig='ssh skeuo@10.0.0.45'
 export PATH="$HOME/.local/bin:$PATH"
 
 parse_git_branch() {
