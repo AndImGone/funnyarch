@@ -1,7 +1,7 @@
 # Dependencies
 
 ```console
-sudo pacman -S flameshot tint2 picom rofi feh sxhkd berry kitty rofi-emoji neovim 
+sudo pacman -S flameshot tint2 picom rofi feh sxhkd berry kitty rofi-emoji neovim pcmanfm
 ```
 also install https://github.com/jluttine/rofi-power-menu & https://aur.archlinux.org/ttf-blex-nerd-font-git.git
 # Installation
