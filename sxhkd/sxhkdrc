@@ -1,0 +1,37 @@
+#
+# wm independent hotkeys
+#
+
+# terminal emulator
+super + Return
+	kitty
+
+# rofi scripts
+super + x
+	rofi -show drun
+
+alt + Tab
+	rofi -show windowcd
+
+super + Tab
+	rofi -show window
+
+super + shift + e
+    rofi -show p -modi p:'/home/skeuo/.local/bin/rofi-power-menu'
+
+super + space
+    rofi -show emoji
+
+# important apps
+super + z
+	pcmanfm
+
+super + a
+	firefox
+
+super + shift + s 
+  flameshot gui
+
+# make sxhkd reload its configuration files:
+super + Escape
+	pkill -USR1 -x sxhkd

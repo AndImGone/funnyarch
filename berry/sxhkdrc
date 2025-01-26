@@ -55,7 +55,7 @@ super + shift + {1-9}
 super + m
     berryc window_monocle
 
-super + f
+super + faustralium
     berryc fullscreen
 
 super +  p
