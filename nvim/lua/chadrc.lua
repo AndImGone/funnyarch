@@ -1,0 +1,2 @@
+-- lua/chadrc.lua
+return {}
