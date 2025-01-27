@@ -19,6 +19,16 @@ berryc smart_place "true"
 berryc draw_text "true"
 berryc edge_lock "true"
 berryc set_font "BlexMono Nerd Font"
+berryc name_desktop 0 A
+berryc name_desktop 1 B
+berryc name_desktop 2 C
+berryc name_desktop 3 D
+berryc name_desktop 4 E
+berryc name_desktop 5 F
+berryc name_desktop 6 G
+berryc name_desktop 7 H
+berryc name_desktop 8 I
+berryc name_desktop 9 J
 
 sxhkd -c ~/.config/berry/sxhkdrc &
 picom &
