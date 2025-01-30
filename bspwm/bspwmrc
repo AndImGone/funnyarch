@@ -23,4 +23,4 @@ bspc rule -a Screenkey manage=off
 tint2 &
 picom &
 sxhkd -c ~/.config/bspwm/sxhkdrc &
-feh --bg-scale ~/.gitshit/wallpapers/0005.jpg
+nitrogen --restore

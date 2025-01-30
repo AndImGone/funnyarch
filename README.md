@@ -1,7 +1,7 @@
 # Dependencies
 
 ```console
-sudo pacman -S flameshot tint2 picom rofi feh sxhkd berry kitty rofi-emoji neovim pcmanfm firefox bspwm
+sudo pacman -S flameshot tint2 picom rofi feh sxhkd berry kitty rofi-emoji neovim pcmanfm firefox bspwm nitrogen
 ```
 also install https://github.com/jluttine/rofi-power-menu & https://aur.archlinux.org/ttf-blex-nerd-font-git.git
 # Installation
@@ -10,8 +10,6 @@ git clone https://github.com/AndImGone/funnyarch.git
 ```
 
 Import everything into ~/.config
-
- **EXCEPT** for rofi. For rofi, you're gonna wanna take everything in rofi except config.rasi, and put it in ~/.local/share/rofia
 
 Rename bashrc to .bashrc and put it into your home directory
 

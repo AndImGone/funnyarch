@@ -33,4 +33,4 @@ berryc name_desktop 9 J
 sxhkd -c ~/.config/berry/sxhkdrc &
 picom &
 tint2 &
-feh --bg-scale ~/.gitshit/wallpapers/0005.jpg
+nitrogen --restore

@@ -4,4 +4,4 @@ configuration {
     icon-theme: "Papirus";
     modi: "drun,run,ssh,window,emoji";
 }
-@theme "/home/skeuo/.local/share/rofi/themes/squared-ghdark.rasi"
+@theme "~/.config/rofi/themes/squared-ghdark.rasi"
