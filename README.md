@@ -1,5 +1,5 @@
 
-# Moving to gitlab
+# Moving to GitLab
 https://gitlab.com/skeuohazard/simple-arch
 
 
