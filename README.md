@@ -1,6 +1,6 @@
 
 # Moving to gitlab
-https://gitlab.com/skeuohazard/funnyarch
+https://gitlab.com/skeuohazard/simple-arch
 
 
 
